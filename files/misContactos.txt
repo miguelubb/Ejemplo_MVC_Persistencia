@@ -1,0 +1,3 @@
+1 ; Juan Riquelme ; juan.riquelme@gmail.com
+2 ; Ana Aparicio ; ana.aparicio@gmail.com
+3 ; Marcelo Salas ; marcelo.salas@gmail.com
